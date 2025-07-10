@@ -1,0 +1,95 @@
+
+# Network Traffic Analysis Tool - Setup Guide
+
+This document provides step-by-step instructions for setting up and running the Network Traffic Analysis Tool on any device.
+
+---
+
+##  System Requirements
+- **Operating System**: Windows 10+, Ubuntu 20.04+, or macOS Catalina+
+- **Python**: Version 3.8 to 3.11
+- **Wireshark**: TShark component is required (for pyshark)
+- **Admin Access**: Required for capturing live packets
+
+---
+
+##  Required Python Libraries
+
+| Library      | Purpose                                 |
+|--------------|------------------------------------------|
+| scapy        | Capturing and analyzing network packets  |
+| pyshark      | Reading `.pcap` files via tshark         |
+| pandas       | Data processing and analysis             |
+| matplotlib   | Visualizing packet statistics            |
+| plyer        | Sending system notifications             |
+| tkinter      | GUI framework (pre-installed with Python)|
+
+---
+
+##  Installation Steps
+
+### Step 1: Install Python
+- Download and install Python from https://www.python.org/downloads/
+- During installation, check the box: "Add Python to PATH"
+
+### Step 2: Install Wireshark
+- Download from: https://www.wireshark.org/
+- During installation, enable the option "Install TShark"
+
+On Ubuntu/Linux:
+```
+sudo apt update
+sudo apt install wireshark tshark
+```
+
+### Step 3: Clone the Repository
+Clone or copy the project to your machine.
+
+### Step 4: Set Up Virtual Environment (Recommended)
+```
+python -m venv venv
+venv\Scripts\activate     # On Windows
+source venv/bin/activate    # On Linux/Mac
+```
+
+### Step 5: Install Required Libraries
+Option A:
+```
+pip install scapy pyshark pandas matplotlib plyer
+```
+
+Option B (using requirements.txt):
+```
+pip install -r requirements.txt
+```
+
+### Step 6: Run the Application
+```
+python network_traffic_gui.py
+```
+
+---
+
+##  Notes
+- Run terminal/command prompt with **Administrator privileges** for live packet capture.
+- Ensure firewall/antivirus doesn't block packet sniffing or notifications.
+- If you're only analyzing `.pcap` files, admin rights are not needed.
+
+---
+
+##  Sample Folder Structure
+```
+NetworkTrafficAnalysis/
+ capture_packets.py
+ detect_anomalies.py
+ monitor_traffic.py
+ network_traffic_gui.py
+ preprocess_packets.py
+ visualize_packets.py
+ requirements.txt
+ sample.pcap
+```
+
+---
+
+For issues or contributions, please raise a GitHub issue or pull request. Happy analyzing!

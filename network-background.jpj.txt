@@ -1,0 +1,1 @@
+background: url('{{ url_for('static', filename='network-background.jpg') }}') no-repeat center center fixed;

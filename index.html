@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Network Traffic Anomalies</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Network Traffic Anomalies</h1>
+        <img src="data:image/png;base64,{{ image_base64 }}" alt="Anomalies Plot">
+        <h2>Detected Anomalies</h2>
+        <ul>
+            {% for anomaly in anomalies %}
+                <li>{{ anomaly }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</body>
+</html>

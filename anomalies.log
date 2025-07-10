@@ -1,0 +1,437 @@
+Anomaly detected: Ether / IP / UDP 192.168.0.190:64609 > 172.217.166.110:https / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:64609 > 172.217.166.110:https / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:64609 > 172.217.166.110:https / Raw
+Anomaly detected: Ether / IP / UDP 172.217.166.110:https > 192.168.0.190:64609 / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53856 > 23.3.70.177:https PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53856 > 23.3.70.177:https PA / Raw
+Anomaly detected: Ether / IP / TCP 23.3.70.177:https > 192.168.0.190:53856 A / Raw
+Anomaly detected: Ether / IP / TCP 23.3.70.177:https > 192.168.0.190:53856 A / Raw
+Anomaly detected: Ether / IP / TCP 23.3.70.177:https > 192.168.0.190:53856 PA / Raw
+Anomaly detected: Ether / IP / UDP 142.250.196.164:https > 192.168.0.190:56081 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.189:45768 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53828 > 172.64.155.141:https PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:58423 > 163.70.138.174:https / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:58423 > 163.70.138.174:https / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:58423 > 163.70.138.174:https / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:58423 > 163.70.138.174:https / Raw
+Anomaly detected: Ether / IP / UDP 163.70.138.174:https > 192.168.0.190:58423 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / TCP 20.198.119.84:https > 192.168.0.190:58977 PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53364 > 104.18.32.115:https PA / Raw
+Anomaly detected: Ether / IP / TCP 13.107.137.11:https > 192.168.0.190:53857 PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.177:43851 > 192.168.0.190:58425 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.177:43851 > 192.168.0.190:58425 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.177:43851 > 192.168.0.190:58425 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.177:43851 > 192.168.0.190:58425 / Raw
+Anomaly detected: Ether / IP / TCP 13.107.137.11:https > 192.168.0.190:53857 PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53858 > 52.104.0.27:https PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:61880 > 142.250.196.164:https / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:61880 > 142.250.196.164:https / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:61880 > 142.250.196.164:https / Raw
+Anomaly detected: Ether / IP / TCP 150.171.22.254:https > 192.168.0.190:53860 PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:61880 > 142.250.196.164:https / Raw
+Anomaly detected: Ether / IP / UDP 142.250.196.164:https > 192.168.0.190:61880 / Raw
+Anomaly detected: Ether / IP / UDP 142.250.196.164:https > 192.168.0.190:61880 / Raw
+Anomaly detected: Ether / IP / TCP 20.198.119.84:https > 192.168.0.190:58977 PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.189:34820 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:59048 > 163.70.139.2:https PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / TCP 20.198.119.84:https > 192.168.0.190:58977 PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53877 > 52.104.0.27:https PA / Raw
+Anomaly detected: Ether / IP / TCP 52.104.0.27:https > 192.168.0.190:53877 A / Raw
+Anomaly detected: Ether / IP / TCP 52.104.0.27:https > 192.168.0.190:53877 A / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.189:34820 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / TCP 52.104.0.27:https > 192.168.0.190:53877 A / Raw
+Anomaly detected: Ether / IP / TCP 52.104.0.27:https > 192.168.0.190:53877 A / Raw
+Anomaly detected: Ether / IP / TCP 52.104.0.27:https > 192.168.0.190:53877 A / Raw
+Anomaly detected: Ether / IP / TCP 52.104.0.27:https > 192.168.0.190:53877 A / Raw
+Anomaly detected: Ether / IP / TCP 52.104.0.27:https > 192.168.0.190:53877 A / Raw
+Anomaly detected: Ether / IP / TCP 52.104.0.27:https > 192.168.0.190:53877 A / Raw
+Anomaly detected: Ether / IP / TCP 52.104.0.27:https > 192.168.0.190:53877 A / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.177:60230 > 192.168.0.190:59916 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.177:60230 > 192.168.0.190:59916 / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53878 > 13.107.137.11:https PA / Raw
+Anomaly detected: Ether / IP / TCP 13.107.137.11:https > 192.168.0.190:53878 A / Raw
+Anomaly detected: Ether / IP / TCP 13.107.137.11:https > 192.168.0.190:53878 A / Raw
+Anomaly detected: Ether / IP / TCP 13.107.137.11:https > 192.168.0.190:53878 A / Raw
+Anomaly detected: Ether / IP / TCP 13.107.137.11:https > 192.168.0.190:53878 A / Raw
+Anomaly detected: Ether / IP / TCP 13.107.137.11:https > 192.168.0.190:53878 PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.177:60230 > 192.168.0.190:59916 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.177:60230 > 192.168.0.190:59916 / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53878 > 13.107.137.11:https PA / Raw
+Anomaly detected: Ether / IP / TCP 13.107.137.11:https > 192.168.0.190:53878 A / Raw
+Anomaly detected: Ether / IP / TCP 13.107.137.11:https > 192.168.0.190:53878 A / Raw
+Anomaly detected: Ether / IP / TCP 13.107.137.11:https > 192.168.0.190:53878 A / Raw
+Anomaly detected: Ether / IP / TCP 13.107.137.11:https > 192.168.0.190:53878 A / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:59916 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.177:60230 > 192.168.0.190:59916 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:59917 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.177:60230 > 192.168.0.190:59916 / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53878 > 13.107.137.11:https PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:59916 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:59917 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.177:60230 > 192.168.0.190:59916 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.177:60230 > 192.168.0.190:59916 / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53877 > 52.104.0.27:https PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:59916 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.177:60230 > 192.168.0.190:59916 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:59917 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.177:60230 > 192.168.0.190:59916 / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53878 > 13.107.137.11:https PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:59916 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:59917 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.177:60230 > 192.168.0.190:59916 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.177:60230 > 192.168.0.190:59916 / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53877 > 52.104.0.27:https PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:59916 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.177:60230 > 192.168.0.190:59916 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:59917 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.177:60230 > 192.168.0.190:59916 / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53878 > 13.107.137.11:https PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:59916 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:59917 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.177:60230 > 192.168.0.190:59916 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.177:60230 > 192.168.0.190:59916 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / 192.168.0.1 > 239.255.255.250 2 / Raw
+Anomaly detected: Ether / 192.168.0.1 > 239.255.255.250 2 / Raw
+Anomaly detected: Ether / IP / TCP 20.198.119.84:https > 192.168.0.190:58977 PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / 192.168.0.1 > 239.255.255.250 2 / Raw
+Anomaly detected: Ether / 192.168.0.1 > 239.255.255.250 2 / Raw
+Anomaly detected: Ether / IP / TCP 20.198.119.84:https > 192.168.0.190:58977 PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / 192.168.0.1 > 239.255.255.250 2 / Raw
+Anomaly detected: Ether / 192.168.0.1 > 239.255.255.250 2 / Raw
+Anomaly detected: Ether / IP / TCP 20.198.119.84:https > 192.168.0.190:58977 PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / 192.168.0.1 > 239.255.255.250 2 / Raw
+Anomaly detected: Ether / 192.168.0.1 > 239.255.255.250 2 / Raw
+Anomaly detected: Ether / IP / TCP 20.198.119.84:https > 192.168.0.190:58977 PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / 192.168.0.1 > 239.255.255.250 2 / Raw
+Anomaly detected: Ether / 192.168.0.1 > 239.255.255.250 2 / Raw
+Anomaly detected: Ether / IP / TCP 20.198.119.84:https > 192.168.0.190:58977 PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53879 > 20.189.173.24:https PA / Raw
+Anomaly detected: Ether / 127.0.0.1 > 127.0.0.1 ip
+Anomaly detected: Ether / 192.168.0.1 > 224.0.0.251 2 / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53879 > 20.189.173.24:https PA / Raw
+Anomaly detected: Ether / IP / TCP 20.189.173.24:https > 192.168.0.190:53879 PA / Raw
+Anomaly detected: Ether / IP / UDP / DNS Qry "b'_233637DE._sub._googlecast._tcp.local.'" 
+Anomaly detected: Ether / IP / UDP 192.168.0.189:40247 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / 192.168.0.1 > 224.0.0.251 2 / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53879 > 20.189.173.24:https PA / Raw
+Anomaly detected: Ether / IP / TCP 20.189.173.24:https > 192.168.0.190:53879 PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:52693 > 163.70.138.174:https / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:52693 > 163.70.138.174:https / Raw
+Anomaly detected: Ether / IP / UDP 163.70.138.174:https > 192.168.0.190:52693 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:52693 > 163.70.138.174:https / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:52693 > 163.70.138.174:https / Raw
+Anomaly detected: Ether / 192.168.0.1 > 224.0.0.251 2 / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53879 > 20.189.173.24:https PA / Raw
+Anomaly detected: Ether / IP / TCP 20.189.173.24:https > 192.168.0.190:53879 PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:52693 > 163.70.138.174:https / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:52693 > 163.70.138.174:https / Raw
+Anomaly detected: Ether / IP / UDP 163.70.138.174:https > 192.168.0.190:52693 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:52693 > 163.70.138.174:https / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:52693 > 163.70.138.174:https / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53364 > 104.18.32.115:https PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:59011 > 13.71.196.252:8883 PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:59011 > 13.71.196.252:8883 PA / Raw
+Anomaly detected: Ether / IP / UDP 142.250.195.99:https > 192.168.0.190:53995 / Raw
+Anomaly detected: Ether / IP / UDP 142.250.195.99:https > 192.168.0.190:53995 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:53995 > 142.250.195.99:https / Raw
+Anomaly detected: Ether / IP / UDP 142.250.195.99:https > 192.168.0.190:53995 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:53995 > 142.250.195.99:https / Raw
+Anomaly detected: Ether / IP / UDP 142.250.195.99:https > 192.168.0.190:53995 / Raw
+Anomaly detected: Ether / IP / TCP 20.212.88.117:https > 192.168.0.190:53119 PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53119 > 20.212.88.117:https PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53364 > 104.18.32.115:https PA / Raw
+Anomaly detected: Ether / IP / UDP 142.250.195.99:https > 192.168.0.190:53995 / Raw
+Anomaly detected: Ether / IP / UDP 142.250.195.99:https > 192.168.0.190:53995 / Raw
+Anomaly detected: Ether / IP / UDP 142.250.195.99:https > 192.168.0.190:53995 / Raw
+Anomaly detected: Ether / IP / UDP 142.250.195.99:https > 192.168.0.190:53995 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:53995 > 142.250.195.99:https / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:53995 > 142.250.195.99:https / Raw
+Anomaly detected: Ether / IP / UDP 142.250.195.99:https > 192.168.0.190:53995 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:51375 > 163.70.138.174:https / Raw
+Anomaly detected: Ether / IP / UDP 163.70.138.174:https > 192.168.0.190:51375 / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53910 > 163.70.138.174:https PA / Raw
+Anomaly detected: Ether / IP / TCP 163.70.138.174:https > 192.168.0.190:53910 A / Raw
+Anomaly detected: Ether / IP / TCP 163.70.138.174:https > 192.168.0.190:53910 A / Raw
+Anomaly detected: Ether / IP / TCP 163.70.138.174:https > 192.168.0.190:53910 PA / Raw
+Anomaly detected: Ether / IP / UDP 163.70.138.174:https > 192.168.0.190:51375 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:51375 > 163.70.138.174:https / Raw
+Anomaly detected: Ether / IP / UDP 163.70.138.174:https > 192.168.0.190:51375 / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53910 > 163.70.138.174:https PA / Raw
+Anomaly detected: Ether / IP / TCP 163.70.138.174:https > 192.168.0.190:53910 A / Raw
+Anomaly detected: Ether / IP / TCP 163.70.138.174:https > 192.168.0.190:53910 A / Raw
+Anomaly detected: Ether / IP / TCP 163.70.138.174:https > 192.168.0.190:53910 PA / Raw
+Anomaly detected: Ether / IP / UDP 163.70.138.174:https > 192.168.0.190:51375 / Raw
+Anomaly detected: Ether / IP / UDP / DNS Ans "b'194172-ipv4.farm.dprodmgd105.aa-rt.sharepoint.com.'" 
+Anomaly detected: Ether / IP / TCP 52.104.0.27:https > 192.168.0.190:53911 PA / Raw
+Anomaly detected: Ether / IP / TCP 52.104.0.27:https > 192.168.0.190:53911 PA / Raw
+Anomaly detected: Ether / IP / UDP 104.18.32.115:https > 192.168.0.190:51433 / Raw
+Anomaly detected: Ether / IP / UDP 104.18.32.115:https > 192.168.0.190:51433 / Raw
+Anomaly detected: Ether / IP / UDP 104.18.32.115:https > 192.168.0.190:51433 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:51433 > 104.18.32.115:https / Raw
+Anomaly detected: Ether / IP / UDP 104.18.32.115:https > 192.168.0.190:51433 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:51433 > 104.18.32.115:https / Raw
+Anomaly detected: Ether / IP / UDP 104.18.32.115:https > 192.168.0.190:51433 / Raw
+Anomaly detected: Ether / IP / UDP / DNS Ans "b'194172-ipv4.farm.dprodmgd105.aa-rt.sharepoint.com.'" 
+Anomaly detected: Ether / IP / TCP 52.104.0.27:https > 192.168.0.190:53911 PA / Raw
+Anomaly detected: Ether / IP / TCP 52.104.0.27:https > 192.168.0.190:53911 PA / Raw
+Anomaly detected: Ether / IP / UDP 104.18.32.115:https > 192.168.0.190:51433 / Raw
+Anomaly detected: Ether / IP / UDP 104.18.32.115:https > 192.168.0.190:51433 / Raw
+Anomaly detected: Ether / IP / UDP 104.18.32.115:https > 192.168.0.190:51433 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:51433 > 104.18.32.115:https / Raw
+Anomaly detected: Ether / IP / UDP 104.18.32.115:https > 192.168.0.190:51433 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:51433 > 104.18.32.115:https / Raw
+Anomaly detected: Ether / IP / UDP 104.18.32.115:https > 192.168.0.190:51433 / Raw
+Anomaly detected: Ether / IP / TCP 20.198.119.84:https > 192.168.0.190:58977 PA / Raw
+Anomaly detected: Ether / IP / UDP / DNS Qry "b'_233637DE._sub._googlecast._tcp.local.'" 
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53894 > 184.28.173.40:https A / Raw
+Anomaly detected: Ether / IP / UDP / DNS Qry "b'_233637DE._sub._googlecast._tcp.local.'" 
+Anomaly detected: Ether / IP / TCP 163.70.139.61:https > 192.168.0.190:53843 PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.189:36411 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53894 > 184.28.173.40:https A / Raw
+Anomaly detected: Ether / IP / UDP / DNS Qry "b'_233637DE._sub._googlecast._tcp.local.'" 
+Anomaly detected: Ether / IP / TCP 163.70.139.61:https > 192.168.0.190:53843 PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.189:36411 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53841 > 163.70.138.128:https PA / Raw
+Anomaly detected: Ether / IP / TCP 163.70.138.128:https > 192.168.0.190:53841 PA / Raw
+Anomaly detected: Ether / IP / TCP 163.70.139.2:https > 192.168.0.190:59048 PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:59048 > 163.70.139.2:https PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53917 > 52.113.194.132:https PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53918 > 13.107.137.11:https S
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53918 > 13.107.137.11:https S
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53918 > 13.107.137.11:https PA / Raw
+Anomaly detected: Ether / IP / TCP 13.107.137.11:https > 192.168.0.190:53918 PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53918 > 13.107.137.11:https PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53841 > 163.70.138.128:https PA / Raw
+Anomaly detected: Ether / IP / TCP 163.70.138.128:https > 192.168.0.190:53841 PA / Raw
+Anomaly detected: Ether / IP / TCP 163.70.139.2:https > 192.168.0.190:59048 PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:59048 > 163.70.139.2:https PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53917 > 52.113.194.132:https PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53918 > 13.107.137.11:https S
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53918 > 13.107.137.11:https S
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53918 > 13.107.137.11:https PA / Raw
+Anomaly detected: Ether / IP / TCP 13.107.137.11:https > 192.168.0.190:53918 PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53918 > 13.107.137.11:https PA / Raw
+Anomaly detected: Ether / IP / UDP / DNS Ans "b'self-events-data.trafficmanager.net.'" 
+Anomaly detected: Ether / IP / TCP 52.168.112.67:https > 192.168.0.190:53920 A / Raw
+Anomaly detected: Ether / IP / TCP 52.168.112.67:https > 192.168.0.190:53920 A / Raw
+Anomaly detected: Ether / 192.168.0.1 > 239.255.255.250 2 / Raw
+Anomaly detected: Ether / 192.168.0.1 > 239.255.255.250 2 / Raw
+Anomaly detected: Ether / IP / UDP / DNS Qry "b'self.events.data.microsoft.com.'" 
+Anomaly detected: Ether / IP / UDP / DNS Qry "b'self.events.data.microsoft.com.'" 
+Anomaly detected: Ether / IP / UDP / DNS Ans "b'self-events-data.trafficmanager.net.'" 
+Anomaly detected: Ether / IP / UDP / DNS Qry "b'self.events.data.microsoft.com.'" 
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53920 > 52.168.112.67:https PA / Raw
+Anomaly detected: Ether / IP / TCP 20.190.146.32:https > 192.168.0.190:53921 PA / Raw
+Anomaly detected: Ether / IP / UDP / DNS Qry "b'_233637DE._sub._googlecast._tcp.local.'" 
+Anomaly detected: Ether / 192.168.0.1 > 239.255.255.250 2 / Raw
+Anomaly detected: Ether / 192.168.0.1 > 239.255.255.250 2 / Raw
+Anomaly detected: Ether / IP / UDP / DNS Qry "b'self.events.data.microsoft.com.'" 
+Anomaly detected: Ether / IP / UDP / DNS Qry "b'self.events.data.microsoft.com.'" 
+Anomaly detected: Ether / IP / UDP / DNS Ans "b'self-events-data.trafficmanager.net.'" 
+Anomaly detected: Ether / IP / UDP / DNS Qry "b'self.events.data.microsoft.com.'" 
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53920 > 52.168.112.67:https PA / Raw
+Anomaly detected: Ether / IP / TCP 20.190.146.32:https > 192.168.0.190:53921 PA / Raw
+Anomaly detected: Ether / IP / UDP / DNS Qry "b'_233637DE._sub._googlecast._tcp.local.'" 
+Anomaly detected: Ether / IP / UDP 192.168.0.189:59656 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53899 > 172.64.155.141:https PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.1:43399 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53929 > 52.113.194.132:https PA / Raw
+Anomaly detected: Ether / IP / TCP 52.113.194.132:https > 192.168.0.190:53929 PA / Raw
+Anomaly detected: Ether / IP / UDP / DNS Qry "b'_233637DE._sub._googlecast._tcp.local.'" 
+Anomaly detected: Ether / IP / UDP / DNS Qry "b'_233637DE._sub._googlecast._tcp.local.'" 
+Anomaly detected: Ether / IP / UDP / DNS Qry "b'_233637DE._sub._googlecast._tcp.local.'" 
+Anomaly detected: Ether / IP / UDP / DNS Qry "b'_233637DE._sub._googlecast._tcp.local.'" 
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53929 > 52.113.194.132:https PA / Raw
+Anomaly detected: Ether / IP / TCP 52.113.194.132:https > 192.168.0.190:53929 PA / Raw
+Anomaly detected: Ether / IP / UDP / DNS Qry "b'_233637DE._sub._googlecast._tcp.local.'" 
+Anomaly detected: Ether / IP / UDP / DNS Qry "b'_233637DE._sub._googlecast._tcp.local.'" 
+Anomaly detected: Ether / IP / UDP / DNS Qry "b'_233637DE._sub._googlecast._tcp.local.'" 
+Anomaly detected: Ether / IP / UDP / DNS Qry "b'_233637DE._sub._googlecast._tcp.local.'" 
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53919 > 52.104.0.27:https PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:54024 > 163.70.139.61:5222 PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:54024 > 163.70.139.61:5222 PA / Raw
+Anomaly detected: Ether / IP / TCP 163.70.139.61:5222 > 192.168.0.190:54024 PA / Raw
+Anomaly detected: Ether / IP / TCP 163.70.139.61:5222 > 192.168.0.190:54024 PA / Raw
+Anomaly detected: Ether / IP / TCP 163.70.139.61:5222 > 192.168.0.190:54024 PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:54027 > 202.133.50.98:https PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:54027 > 202.133.50.98:https PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:54032 > 163.70.139.60:https PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:54029 > 163.70.139.60:https PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:54024 > 163.70.139.61:5222 PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:54024 > 163.70.139.61:5222 PA / Raw
+Anomaly detected: Ether / IP / TCP 163.70.139.61:5222 > 192.168.0.190:54024 PA / Raw
+Anomaly detected: Ether / IP / TCP 163.70.139.61:5222 > 192.168.0.190:54024 PA / Raw
+Anomaly detected: Ether / IP / TCP 163.70.139.61:5222 > 192.168.0.190:54024 PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:54027 > 202.133.50.98:https PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:54027 > 202.133.50.98:https PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:54032 > 163.70.139.60:https PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:54029 > 163.70.139.60:https PA / Raw
+Anomaly detected: Ether / 192.168.0.1 > 228.8.8.8 2 / Raw
+Anomaly detected: Ether / 192.168.0.1 > 228.8.8.8 2 / Raw
+Anomaly detected: Ether / 192.168.0.1 > 228.8.8.8 2 / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:54024 > 163.70.139.61:5222 PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:54024 > 163.70.139.61:5222 PA / Raw
+Anomaly detected: Ether / IP / TCP 163.70.139.61:5222 > 192.168.0.190:54024 PA / Raw
+Anomaly detected: Ether / IP / TCP 163.70.139.61:5222 > 192.168.0.190:54024 PA / Raw
+Anomaly detected: Ether / IP / TCP 163.70.139.61:5222 > 192.168.0.190:54024 PA / Raw
+Anomaly detected: Ether / IP / TCP 163.70.139.61:5222 > 192.168.0.190:54024 PA / Raw
+Anomaly detected: Ether / IP / TCP 163.70.139.61:5222 > 192.168.0.190:54024 PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:57851 > 142.250.77.110:https / Raw
+Anomaly detected: Ether / IP / UDP 142.250.77.110:https > 192.168.0.190:57851 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.189:33676 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / TCP 13.233.249.99:https > 192.168.0.190:53301 PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53979 > 163.70.139.2:https PA / Raw
+Anomaly detected: Ether / IP / TCP 52.88.134.142:https > 192.168.0.190:54048 PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:57851 > 142.250.77.110:https / Raw
+Anomaly detected: Ether / IP / UDP 142.250.77.110:https > 192.168.0.190:57851 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.189:33676 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / TCP 13.233.249.99:https > 192.168.0.190:53301 PA / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:53979 > 163.70.139.2:https PA / Raw
+Anomaly detected: Ether / IP / TCP 52.88.134.142:https > 192.168.0.190:54048 PA / Raw
+Anomaly detected: Ether / IP / TCP 52.88.134.142:https > 192.168.0.190:54044 A / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:57851 > 142.250.77.110:https / Raw
+Anomaly detected: Ether / IP / UDP 142.250.77.110:https > 192.168.0.190:57851 / Raw
+Anomaly detected: Ether / IP / TCP 52.88.134.142:https > 192.168.0.190:54044 A / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.189:33676 > 239.255.255.250:ssdp / Raw
+Anomaly detected: Ether / IP / TCP 13.233.249.99:https > 192.168.0.190:53301 PA / Raw
+Anomaly detected: Ether / IP / TCP 52.88.134.142:https > 192.168.0.190:54044 A / Raw
+Anomaly detected: Ether / IP / TCP 52.88.134.142:https > 192.168.0.190:54044 A / Raw
+Anomaly detected: Ether / IP / TCP 52.88.134.142:https > 192.168.0.190:54044 A / Raw
+Anomaly detected: Ether / IP / TCP 52.88.134.142:https > 192.168.0.190:54048 PA / Raw
+Anomaly detected: Ether / IP / TCP 74.125.130.188:5228 > 192.168.0.190:54095 PA / Raw
+Anomaly detected: Ether / IP / TCP 74.125.130.188:5228 > 192.168.0.190:54095 PA / Raw
+Anomaly detected: Ether / IP / UDP 142.250.77.110:https > 192.168.0.190:59984 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:59984 > 142.250.77.110:https / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:59984 > 142.250.77.110:https / Raw
+Anomaly detected: Ether / 192.168.0.1 > 239.255.255.250 2 / Raw
+Anomaly detected: Ether / 192.168.0.1 > 239.255.255.250 2 / Raw
+Anomaly detected: Ether / 192.168.0.1 > 239.255.255.250 2 / Raw
+Anomaly detected: Ether / 192.168.0.1 > 239.255.255.250 2 / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:54096 > 163.70.138.63:https PA / Raw
+Anomaly detected: Ether / IP / UDP / DNS Qry "b'_233637DE._sub._googlecast._tcp.local.'" 
+Anomaly detected: Ether / IP / UDP 192.168.0.190:57126 > 142.250.195.46:https / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:57126 > 142.250.195.46:https / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:57126 > 142.250.195.46:https / Raw
+Anomaly detected: Ether / IP / TCP 20.198.119.84:https > 192.168.0.190:50044 PA / Raw
+Anomaly detected: Ether / IP / TCP 20.189.173.17:https > 192.168.0.190:60120 A / Raw
+Anomaly detected: Ether / IP / TCP 20.189.173.17:https > 192.168.0.190:60120 A / Raw
+Anomaly detected: Ether / IP / TCP 20.189.173.17:https > 192.168.0.190:60120 A / Raw
+Anomaly detected: Ether / IP / TCP 20.189.173.17:https > 192.168.0.190:60120 A / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:60120 > 20.189.173.17:https PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:63520 > 142.250.205.238:https / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:63520 > 142.250.205.238:https / Raw
+Anomaly detected: Ether / IP / UDP 142.250.205.238:https > 192.168.0.190:63520 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:59641 > 142.250.182.66:https / Raw
+Anomaly detected: Ether / IP / TCP 20.189.173.17:https > 192.168.0.190:60120 A / Raw
+Anomaly detected: Ether / IP / TCP 20.189.173.17:https > 192.168.0.190:60120 A / Raw
+Anomaly detected: Ether / IP / TCP 20.189.173.17:https > 192.168.0.190:60120 A / Raw
+Anomaly detected: Ether / IP / TCP 20.189.173.17:https > 192.168.0.190:60120 A / Raw
+Anomaly detected: Ether / IP / TCP 192.168.0.190:60120 > 20.189.173.17:https PA / Raw
+Anomaly detected: Ether / IP / TCP 20.189.173.17:https > 192.168.0.190:60120 PA / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:63520 > 142.250.205.238:https / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:63520 > 142.250.205.238:https / Raw
+Anomaly detected: Ether / IP / UDP 142.250.205.238:https > 192.168.0.190:63520 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:59641 > 142.250.182.66:https / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:54156 > 142.250.82.219:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:54156 > 142.250.82.219:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:63246 > 142.250.196.174:https / Raw
+Anomaly detected: Ether / IP / UDP 142.250.196.174:https > 192.168.0.190:63246 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 142.250.82.215:3478 > 192.168.0.190:49666 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:54156 > 142.250.82.219:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.0.190:49666 > 142.250.82.215:3478 / Raw
+Anomaly detected: Ether / IP / TCP 192.168.66.70:50682 > 52.168.112.66:https PA / Raw
+Anomaly detected: Ether / IP / UDP / DNS Ans "b'config.teams.trafficmanager.net.'" 
+Anomaly detected: Ether / IP / UDP 142.250.82.219:3478 > 192.168.66.70:56047 / Raw
+Anomaly detected: Ether / IP / UDP 142.250.82.211:3478 > 192.168.66.70:56050 / Raw
+Anomaly detected: Ether / IP / UDP 142.250.82.219:3478 > 192.168.66.70:56047 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.66.70:56050 > 142.250.82.211:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.66.70:56050 > 142.250.82.211:3478 / Raw
+Anomaly detected: Ether / IP / UDP 142.250.82.219:3478 > 192.168.66.70:56047 / Raw
+Anomaly detected: Ether / IP / UDP 142.250.82.211:3478 > 192.168.66.70:56050 / Raw
+Anomaly detected: Ether / IP / UDP 142.250.82.211:3478 > 192.168.66.70:56050 / Raw
+Anomaly detected: Ether / IP / UDP 142.250.82.219:3478 > 192.168.66.70:56047 / Raw
+Anomaly detected: Ether / IP / UDP 142.250.82.219:3478 > 192.168.66.70:56047 / Raw
+Anomaly detected: Ether / IP / UDP 142.250.82.219:3478 > 192.168.66.70:56047 / Raw
+Anomaly detected: Ether / IP / UDP 142.250.82.219:3478 > 192.168.66.70:56047 / Raw
+Anomaly detected: Ether / IP / UDP 142.250.82.219:3478 > 192.168.66.70:56047 / Raw
+Anomaly detected: Ether / IP / UDP 142.250.82.219:3478 > 192.168.66.70:56047 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.66.70:56050 > 142.250.82.211:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.66.70:56050 > 142.250.82.211:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.66.70:56050 > 142.250.82.211:3478 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.66.70:61663 > 142.250.76.46:https / Raw
+Anomaly detected: Ether / IP / UDP 142.250.76.46:https > 192.168.66.70:61663 / Raw
+Anomaly detected: Ether / IP / UDP 142.250.76.46:https > 192.168.66.70:61663 / Raw
+Anomaly detected: Ether / IP / UDP 142.250.76.46:https > 192.168.66.70:61663 / Raw
+Anomaly detected: Ether / IP / UDP 192.168.66.70:56050 > 142.250.82.211:3478 / Raw
+Anomaly detected: Ether / IP / UDP / mDNS Ans b'SPPL-4K-GSmartTV-a0751fb7c15d9cf915e2798257e76be7._googlecast._tcp.local.'
+Anomaly detected: Ether / IP / TCP 3.233.158.25:https > 192.168.0.109:59001 A / Raw
+Anomaly detected: Ether / IP / TCP 3.233.158.25:https > 192.168.0.109:59001 A / Raw
+Anomaly detected: Ether / IP / TCP 3.233.158.25:https > 192.168.0.109:59001 PA / Raw
+Anomaly detected: Ether / 192.168.0.225 > 224.0.0.1 2 / Raw / Padding
+Anomaly detected: Ether / IP / TCP 3.233.158.25:https > 192.168.0.109:59002 A / Raw
+Anomaly detected: Ether / IP / TCP 3.233.158.25:https > 192.168.0.109:59002 A / Raw
+Anomaly detected: Ether / 192.168.0.225 > 224.0.0.1 2 / Raw / Padding
+Anomaly detected: Ether / IP / UDP 192.168.0.109:47262 > 51.174.0.25:8999 / Raw
+Anomaly detected: Ether / 192.168.0.225 > 224.0.0.1 2 / Raw / Padding
+Anomaly detected: Ether / IP / TCP 192.168.0.109:58976 > 3.111.241.224:https PA / Raw
+Anomaly detected: Ether / 192.168.0.109 > 239.255.255.250 2 / Raw
+Anomaly detected: Ether / IP / UDP 142.250.205.42:https > 192.168.0.109:54269 / Raw
+Anomaly detected: Ether / IP / UDP / NBTDatagram / SMB_Header / Tran b'\\MAILSLOT\\BROWSE' HostAnnouncement for b'ANU-PC'
+Anomaly detected: Ether / IP / UDP 192.168.0.109:47262 > 217.145.83.13:22524 / Raw
